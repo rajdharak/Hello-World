@@ -15,7 +15,7 @@ namespace MVCFirstApp.Controllers
         }
         public string Mycontroller()
         {
-            return "Hi, I am a controller";
+            return "Hi, this is controller";
         }
         public ActionResult MyView()
         {
