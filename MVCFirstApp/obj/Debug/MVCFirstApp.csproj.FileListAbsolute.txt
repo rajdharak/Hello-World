@@ -30,3 +30,4 @@ c:\users\karan\documents\visual studio 2015\Projects\MVCFirstApp\MVCFirstApp\bin
 c:\users\karan\documents\visual studio 2015\Projects\MVCFirstApp\MVCFirstApp\bin\System.Web.Mvc.xml
 c:\users\karan\documents\visual studio 2015\Projects\MVCFirstApp\MVCFirstApp\obj\Debug\MVCFirstApp.dll
 c:\users\karan\documents\visual studio 2015\Projects\MVCFirstApp\MVCFirstApp\obj\Debug\MVCFirstApp.pdb
+C:\Users\karan\Documents\Visual Studio 2015\Projects\MVCFirstApp\MVCFirstApp\obj\Debug\MVCFirstApp.csprojResolveAssemblyReference.cache
